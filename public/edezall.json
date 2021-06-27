@@ -1,0 +1,222 @@
+[
+  {
+    "grade": 6, 
+    "Name": "NCERT Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "CK-12 Interactive Middle School Math 6", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "Literacy Foundation Math L-6", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "6th grade Math Students Materials", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "grade 6 Khan Academy Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "CK-12 Earth Science for Middle School", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "NCERT Science Textbook", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "Thunderbolt Natural Sciences and Technology", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 6, 
+    "Name": "Flexbook 6th grade Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "NCERT Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "CK-12 Interactive Middle School Math 7", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "grade 7 Khan Academy Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "Literacy Foundation Math L-7 Geometry", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "CAPS Learner Book Inzalo Math", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "NCERT Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "CK-12 Physical Science for Middle School", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "FreeKidsBooks 7th grade Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 7, 
+    "Name": "7th grade Science Compilation", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "NCERT Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "CAPS Learner Book Inzalo Math", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "CK-12 Interactive Middle School Math 8", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "UEN 8th grade Mathematical Foundations", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "Literacy Foundation Math L-8 Geometry", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "Math grade8 Compilation of Chapters", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "NCERT Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "CK-12 Physical Science for Middle School", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "8th grade Science Compilation", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 8, 
+    "Name": "FreeKidsBooks 8th grade Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "NCERT Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "CK-12 PreCalculus Concepts", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "E-media for Mathematics grade9", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "Siyavula Mathematics grade9 Resources", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "NCERT Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "CK-12 Interactive Physics for High School", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "CK-12 Chemistry for High School", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 9, 
+    "Name": "grade 9 Epub Science Compilation of Textbooks", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "NCERT Maths", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "AWM Mathematics Textbook Trigonometry", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "Maths Epub for grade10 Textbooks", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "Secondary Mathematics: Integrated Pathway CCSS", 
+    "Subject": "Mathematics"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "NCERT Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "Life Sciences grade 10", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "grade10 Physical Science", 
+    "Subject": "Science"
+  }, 
+  {
+    "grade": 10, 
+    "Name": "CK-12 Physical Science for High School", 
+    "Subject": "Science"
+  }
+]
