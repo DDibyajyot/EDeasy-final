@@ -1,222 +1,266 @@
 [
   {
-    "Grade": 6, 
-    "Name": "NCERT Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 6,
+    "Name": "NCERT Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://www.ncertbooks.guru/ncert-books-class-6-maths/"
+  },
   {
-    "Grade": 6, 
-    "Name": "CK-12 Interactive Middle School Math 6", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 6,
+    "Name": "CK-12 Interactive Middle School Math 6",
+    "Subject": "Mathematics",
+    "coverURL" : "https://flexbooks.ck12.org/cbook/ck-12-interactive-middle-school-math-6-for-ccss/"
+  },
   {
-    "Grade": 6, 
-    "Name": "Literacy Foundation Math L-6", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 6,
+    "Name": "Literacy Foundation Math L-6",
+    "Subject": "Mathematics",
+    "coverURL": "https://media.openschool.bc.ca/osbcmedia/math/math4/etext/LF_MathL4_Geometry.pdf"
+  },
   {
-    "Grade": 6, 
-    "Name": "6th Grade Math Students Materials", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 6,
+    "Name": "6th Grade Math Students Materials",
+    "Subject": "Mathematics",
+    "coverURL": "https://freekidsbooks.org/6th-grade-math-student-materials-utah-middle-school-math-project/"
+  },
   {
-    "Grade": 6, 
-    "Name": "Grade 6 Khan Academy Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 6,
+    "Name": "Grade 6 Khan Academy Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://www.khanacademy.org/math/cc-sixth-grade-math"
+  },
   {
-    "Grade": 6, 
-    "Name": "CK-12 Earth Science for Middle School", 
-    "Subject": "Science"
-  }, 
+    "Grade": 6,
+    "Name": "CK-12 Earth Science for Middle School",
+    "Subject": "Science",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-middle-school-earth-science-flexbook-2.0/"
+  },
   {
-    "Grade": 6, 
-    "Name": "NCERT Science Textbook", 
-    "Subject": "Science"
-  }, 
+    "Grade": 6,
+    "Name": "NCERT Science Textbook",
+    "Subject": "Science",
+    "coverURL": "https://ncert.nic.in/textbook.php?fesc1=0-16"
+  },
   {
-    "Grade": 6, 
-    "Name": "Thunderbolt Natural Sciences and Technology", 
-    "Subject": "Science"
-  }, 
+    "Grade": 6,
+    "Name": "Thunderbolt Natural Sciences and Technology",
+    "Subject": "Science",
+    "coverURL": "http://www.thunderboltkids.co.za/grade-6.html"
+  },
   {
-    "Grade": 6, 
-    "Name": "Flexbook 6th grade Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 6,
+    "Name": "Flexbook 6th grade Science",
+    "Subject": "Science",
+    "coverURL": "https://freekidsbooks.org/wp-content/uploads/2019/10/freekidsbooks-6thgradeScience.pdf"
+  },
   {
-    "Grade": 7, 
-    "Name": "NCERT Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 7,
+    "Name": "NCERT Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://ncert.nic.in/textbook.php?gemh1=0-15"
+  },
   {
-    "Grade": 7, 
-    "Name": "CK-12 Interactive Middle School Math 7", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 7,
+    "Name": "CK-12 Interactive Middle School Math 7",
+    "Subject": "Mathematics",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-interactive-middle-school-math-7-for-ccss/"
+  },
   {
-    "Grade": 7, 
-    "Name": "Grade 7 Khan Academy Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 7,
+    "Name": "Grade 7 Khan Academy Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://www.khanacademy.org/math/cc-seventh-grade-math"
+  },
   {
-    "Grade": 7, 
-    "Name": "Literacy Foundation Math L-7 Geometry", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 7,
+    "Name": "Literacy Foundation Math L-7 Geometry",
+    "Subject": "Mathematics",
+    "coverURL": "https://media.openschool.bc.ca/osbcmedia/math/math5/etext/LF_MathL5_Geometry.pdf"
+  },
   {
-    "Grade": 7, 
-    "Name": "CAPS Learner Book Inzalo Math", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 7,
+    "Name": "CAPS Learner Book Inzalo Math",
+    "Subject": "Mathematics",
+    "coverURL": "https://drive.google.com/file/d/0B_llYI8qojoTaGFLQ1VhV3pjdG8/view?resourcekey=0-JFOuXlCVjnCCQ8wnYb1Ksw"
+  },
   {
-    "Grade": 7, 
-    "Name": "NCERT Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 7,
+    "Name": "NCERT Science",
+    "Subject": "Science",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 7, 
-    "Name": "CK-12 Physical Science for Middle School", 
-    "Subject": "Science"
-  }, 
+    "Grade": 7,
+    "Name": "CK-12 Physical Science for Middle School",
+    "Subject": "Science",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/"
+  },
   {
-    "Grade": 7, 
-    "Name": "FreeKidsBooks 7th Grade Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 7,
+    "Name": "FreeKidsBooks 7th Grade Science",
+    "Subject": "Science",
+    "coverURL": "https://freekidsbooks.org/wp-content/uploads/2019/10/Freekidsbooks-7thGradeScience.pdf"
+  },
   {
-    "Grade": 7, 
-    "Name": "7th Grade Science Compilation", 
-    "Subject": "Science"
-  }, 
+    "Grade": 7,
+    "Name": "7th Grade Science Compilation",
+    "Subject": "Science",
+    "coverURL": "https://drive.google.com/open?id=0B_llYI8qojoTaGFLQ1VhV3pjdG8"
+  },
   {
-    "Grade": 8, 
-    "Name": "NCERT Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 8,
+    "Name": "NCERT Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 8, 
-    "Name": "CAPS Learner Book Inzalo Math", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 8,
+    "Name": "CAPS Learner Book Inzalo Math",
+    "Subject": "Mathematics",
+    "coverURL": "http://www.mstworkbooks.co.za/downloads/Maths1_Gr8_LB.pdf"
+  },
   {
-    "Grade": 8, 
-    "Name": "CK-12 Interactive Middle School Math 8", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 8,
+    "Name": "CK-12 Interactive Middle School Math 8",
+    "Subject": "Mathematics",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-interactive-middle-school-math-8-for-ccss/"
+  },
   {
-    "Grade": 8, 
-    "Name": "UEN 8th Grade Mathematical Foundations", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 8,
+    "Name": "UEN 8th Grade Mathematical Foundations",
+    "Subject": "Mathematics",
+    "coverURL": "https://freekidsbooks.org/wp-content/uploads/2019/11/FKB-UEN8thGradeMath-Mathematical-Foundations-Complete-OER.pdf"
+  },
   {
-    "Grade": 8, 
-    "Name": "Literacy Foundation Math L-8 Geometry", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 8,
+    "Name": "Literacy Foundation Math L-8 Geometry",
+    "Subject": "Mathematics",
+    "coverURL": "https://media.openschool.bc.ca/osbcmedia/math/math6/etext/LF_MathL6_Geometry.pdf"
+  },
   {
-    "Grade": 8, 
-    "Name": "Math Grade8 Compilation of Chapters", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 8,
+    "Name": "Math Grade8 Compilation of Chapters",
+    "Subject": "Mathematics",
+    "coverURL": "https://media.openschool.bc.ca/osbcmedia/ma08/etext/Math8_mod2.pdf"
+  },
   {
-    "Grade": 8, 
-    "Name": "NCERT Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 8,
+    "Name": "NCERT Science",
+    "Subject": "Science",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 8, 
-    "Name": "CK-12 Physical Science for Middle School", 
-    "Subject": "Science"
-  }, 
+    "Grade": 8,
+    "Name": "CK-12 Physical Science for Middle School",
+    "Subject": "Science",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/"
+  },
   {
-    "Grade": 8, 
-    "Name": "8th Grade Science Compilation", 
-    "Subject": "Science"
-  }, 
+    "Grade": 8,
+    "Name": "8th Grade Science Compilation",
+    "Subject": "Science",
+    "coverURL": "https://drive.google.com/file/d/0B_llYI8qojoTM3lialEwOUpSbTA/view?resourcekey=0-hl7k8ZrKfZhPnFEQn3h3_Q"
+  },
   {
-    "Grade": 8, 
-    "Name": "FreeKidsBooks 8th Grade Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 8,
+    "Name": "FreeKidsBooks 8th Grade Science",
+    "Subject": "Science",
+    "coverURL": "https://freekidsbooks.org/wp-content/uploads/2019/10/freekidsbooks-8thGradeScience.pdf"
+  },
   {
-    "Grade": 9, 
-    "Name": "NCERT Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 9,
+    "Name": "NCERT Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 9, 
-    "Name": "CK-12 PreCalculus Concepts", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 9,
+    "Name": "CK-12 PreCalculus Concepts",
+    "Subject": "Mathematics",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-precalculus-concepts-2.0/"
+  },
   {
-    "Grade": 9, 
-    "Name": "E-media for Mathematics Grade9", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 9,
+    "Name": "E-media for Mathematics Grade9",
+    "Subject": "Mathematics",
+    "coverURL": "https://emedia.uen.org/browse?batch_size=50&sort_by=title&view_mode=summary&f.provider_set=312"
+  },
   {
-    "Grade": 9, 
-    "Name": "Siyavula Mathematics Grade9 Resources", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 9,
+    "Name": "Siyavula Mathematics Grade9 Resources",
+    "Subject": "Mathematics",
+    "coverURL": "https://ng.siyavula.com/read/maths/grade-9"
+  },
   {
-    "Grade": 9, 
-    "Name": "NCERT Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 9,
+    "Name": "NCERT Science",
+    "Subject": "Science",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 9, 
-    "Name": "CK-12 Interactive Physics for High School", 
-    "Subject": "Science"
-  }, 
+    "Grade": 9,
+    "Name": "CK-12 Interactive Physics for High School",
+    "Subject": "Science",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-physics-flexbook-2.0/"
+  },
   {
-    "Grade": 9, 
-    "Name": "CK-12 Chemistry for High School", 
-    "Subject": "Science"
-  }, 
+    "Grade": 9,
+    "Name": "CK-12 Chemistry for High School",
+    "Subject": "Science",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/"
+  },
   {
-    "Grade": 9, 
-    "Name": "Grade 9 Epub Science Compilation of Textbooks", 
-    "Subject": "Science"
-  }, 
+    "Grade": 9,
+    "Name": "Grade 9 Epub Science Compilation of Textbooks",
+    "Subject": "Science",
+    "coverURL": "https://drive.google.com/file/d/0B_llYI8qojoTU0pONFlqMGJaWkk/view?resourcekey=0-xlO8xJa5Lo1oDrq2iIhPkw"
+  },
   {
-    "Grade": 10, 
-    "Name": "NCERT Maths", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 10,
+    "Name": "NCERT Maths",
+    "Subject": "Mathematics",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 10, 
-    "Name": "AWM Mathematics Textbook Trigonometry", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 10,
+    "Name": "AWM Mathematics Textbook Trigonometry",
+    "Subject": "Mathematics",
+    "coverURL": "https://media.openschool.bc.ca/osbcmedia/math/mathawm10/etext/AWM_trig1.pdf"
+  },
   {
-    "Grade": 10, 
-    "Name": "Maths Epub for Grade10 Textbooks", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 10,
+    "Name": "Maths Epub for Grade10 Textbooks",
+    "Subject": "Mathematics",
+    "coverURL": "https://drive.google.com/file/d/0B_llYI8qojoTOG1SczRnNW9paUk/view?resourcekey=0-9bj33Jp2qNEw12TgtkHurQ"
+  },
   {
-    "Grade": 10, 
-    "Name": "Secondary Mathematics: Integrated Pathway CCSS", 
-    "Subject": "Mathematics"
-  }, 
+    "Grade": 10,
+    "Name": "Secondary Mathematics: Integrated Pathway CCSS",
+    "Subject": "Mathematics",
+    "coverURL": "http://emedia.uen.org/courses/secondary-two-mathematics-integrated-pathway-ccss/view"
+  },
   {
-    "Grade": 10, 
-    "Name": "NCERT Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 10,
+    "Name": "NCERT Science",
+    "Subject": "Science",
+    "coverURL": "https://ncert.nic.in/textbook.php"
+  },
   {
-    "Grade": 10, 
-    "Name": "Life Sciences Grade 10", 
-    "Subject": "Science"
-  }, 
+    "Grade": 10,
+    "Name": "Life Sciences Grade 10",
+    "Subject": "Science",
+    "coverURL": "https://ng.siyavula.com/read/science/grade-10-lifesciences"
+  },
   {
-    "Grade": 10, 
-    "Name": "Grade10 Physical Science", 
-    "Subject": "Science"
-  }, 
+    "Grade": 10,
+    "Name": "Grade10 Physical Science",
+    "Subject": "Science",
+    "coverURL": "https://drive.google.com/file/d/0Bz69EszGvRvaNDZDaXJZTmladVk/view?resourcekey=0-BjLANLroNfplfCNssHGI-w"
+  },
   {
-    "Grade": 10, 
-    "Name": "CK-12 Physical Science for High School", 
-    "Subject": "Science"
+    "Grade": 10,
+    "Name": "CK-12 Physical Science for High School",
+    "Subject": "Science",
+    "coverURL": "https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/"
   }
 ]
