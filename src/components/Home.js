@@ -38,10 +38,7 @@ function Home() {
                                 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero
                             </Imp> */}
                             <Des>
-                            Humans are known to be social beings. 
-                            <br></br>
-                            Starting from 2019, the world has had to take several steps to reduce contact, spread and increase of the Covid-19 virus which has led to social exclusion, reduced contact with peers and family alike. This has sometimes led to unfortunate mental breakdowns and increasing anxiety across all age groups as the human brain is not mentally wired to stay secluded and away from other humans. <br></br>
-                            With our Web Based App “Mentify”, one can both choose to seek support or provide support by picking the state of your mental health and preferences, after which you could get added to a private room with another person with similar preferences and have a healthy discussion on particularly anything that makes you feel better. This app will also help counselors, who have been greatly displaced by the pandemic, to earn experience in their field as well as possible monetary benefits in the form of tips/subscriptions that will be developed as an extension, in the future.
+                            Any child who wants to receive education in subjects like mathematics or languages like english, can visit our site to find a collection of free open-source textbooks and other resources that do not necessarily follow a specific curricula, or testing system. They are self-paced and cover all grades 1-12 in the standard education system. This is to provide an opportunity of learning to anyone who may not be able to afford a school-based education, home-schoolers as well as anyone who wants to enrich their existing learning process! There’s very little awareness about such resources in the market, and our website hopes to make it easy for children, especially of an underprivileged background to become literate. 
                             </Des>
                         </Written>
                         <Form>
