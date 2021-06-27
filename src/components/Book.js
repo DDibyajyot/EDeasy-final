@@ -25,6 +25,8 @@ function Book(props) {
 export default Book
 
 const Content = styled.div`
+    margin-top: 30px;
+    margin-bottom: 30px;
     display: grid;
     grid-gap: 15px;
     grid-template-columns: repeat(3, minmax(0,0.5fr));
